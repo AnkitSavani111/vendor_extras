@@ -371,10 +371,6 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
-# QS UI Style
-PRODUCT_PACKAGES += \
-    A11QSUI
-
 # Themes
 PRODUCT_PACKAGES += \
     LineageBlackTheme
